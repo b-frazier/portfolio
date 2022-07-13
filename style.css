@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    background-color: bisque;
+}
+
+.navbar {
+    height: 75px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+nav {
+    background-color: #dda15e;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-right: 35px;
+}
+
+.hero {
+    display: flex;
+    padding: 0 20px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.herotxt {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 300px;
+    padding-left: 30px;
+
+}
+
+.headshot {
+    /* display: block; */
+    height: auto;
+    width: 250px;
+    border-radius: 20px;
+}
