@@ -1,0 +1,2 @@
+This project is to practice coding a site from scratch. I want to build out my personal portfolio. I would like to include multiple pages and a showcase of my projects. I would also like there to be a downloadable PDF of my resume available and a contact form.
+I will push myself outside of my comfort zone to develop something I am proud of.
