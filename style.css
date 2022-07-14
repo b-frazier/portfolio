@@ -33,11 +33,10 @@ a:visited {
     color: black;
 }
     
-
 .hero {
     display: flex;
     padding: 0 20px;
-    margin: 0 auto;
+    margin: 50px auto;
     justify-content: center;
 }
 
@@ -51,8 +50,14 @@ a:visited {
 }
 
 .headshot {
-    /* display: block; */
     height: auto;
     width: 250px;
     border-radius: 20px;
+}
+
+/* about page */
+
+#story {
+    width: 700px;
+    margin: 50px auto;
 }
