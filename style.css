@@ -2,6 +2,11 @@
     margin: 0;
     background-color: bisque;
     font-family: 'Raleway', sans-serif;
+    line-height: 25px;
+}
+
+p {
+    font-size: medium;
 }
 
 .navbar {
@@ -44,9 +49,13 @@ a:visited {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 300px;
+    width: 400px;
     padding-left: 30px;
 
+}
+
+#bianca {
+    margin: 5px 0;
 }
 
 .headshot {
@@ -60,4 +69,25 @@ a:visited {
 #story {
     width: 700px;
     margin: 50px auto;
+}
+
+#who {
+    margin: 5px 0;
+}
+
+#gift {
+    width: 700px;
+    margin: 50px auto;
+}
+
+#coffee {
+    margin: 10px 0;
+}
+
+#coffee-btn {
+    background-color: #dda15e;
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: medium;
 }
